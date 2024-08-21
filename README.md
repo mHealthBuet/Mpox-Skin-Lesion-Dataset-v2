@@ -104,12 +104,15 @@ Ahmed, M. T., Paul, J., Jahan, T., Ali, S. N., Sani,  S. M. Sakeef, Noor, N., As
   year={2023}<br />
 }
 
+Ali, S. N., Ahmed, M. T., Jahan, T., Paul, J., Sani, S. M. Sakeef, Noor, N., Asma, A. N., & Hasan, T. (2024). [A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity.](https://doi.org/10.1016/j.bspc.2024.106742) Biomedical Signal Processing and Control, 98, 106742.
 
-Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2207.03342.
-
->@article{Nafisa2022,<br />
-  title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
-  author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
-  journal={arXiv preprint arXiv:2207.03342},<br />
-  year={2022}<br />
+>@article{Ali2024,<br />
+  title={A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity},<br />
+  author={Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Ali, Shams Nafisa and Sani,  S. M. Sakeef and Noor, Nawshaba and Asma,     Anzirun Nahar and Hasan, Taufiq},<br />
+  journal={Biomedical Signal Processing and Control},<br />
+  volume={98},<br />
+  pages={106742},<br />
+  year={2024},<br />
+  publisher={Elsevier}<br />
 }
+
